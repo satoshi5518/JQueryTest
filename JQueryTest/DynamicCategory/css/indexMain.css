@@ -1,0 +1,22 @@
+.book-div{
+    background-color: rgb(100, 100, 200);
+    width: 200px;
+    height: 200px;
+    /* float: left; */
+    display: inline-block;
+    _display: inline;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.float-clear{
+    float: clear;
+}
+
+.div-none{
+     display: none; 
+}
+
+.div-active{
+    /*display: block;*/
+}
